@@ -46,3 +46,8 @@ a {
 .btn-cv:hover{
     background-color: #049CE4;
 }
+
+html *
+{
+   font-family: 'OpenSans' !important
+}
