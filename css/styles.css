@@ -1,8 +1,8 @@
 
 .profile {
     vertical-align: middle;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 
 .project-thumbnail {
@@ -45,9 +45,4 @@ a {
 
 .btn-cv:hover{
     background-color: #049CE4;
-}
-
-html *
-{
-   font-family: 'OpenSans' !important
 }
